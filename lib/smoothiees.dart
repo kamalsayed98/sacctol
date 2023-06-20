@@ -43,9 +43,9 @@ class smoothies extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.start,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('  Karmix', style: s1),
+                        Text('  Karimix', style: s1),
                         Text(
-                            '  2 boule booza ma3 ice cream ma3 serop ktir tayyeb w sprinkles.',
+                            '  2 Icecream balls with chocolate syrup and merry cream w eshya taybeee',
                             style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
@@ -70,7 +70,7 @@ class smoothies extends StatelessWidget {
                       children: [
                         Text('  27', style: s1),
                         Text(
-                            '  browni ma3 ice cream ma3 serop chocolate aw caramell.',
+                            '  Merry cream with browni cake and chocolate syrup w sprinklessss.',
                             style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
@@ -95,7 +95,7 @@ class smoothies extends StatelessWidget {
                       children: [
                         Text('  Cravanova', style: s1),
                         Text(
-                            ' oreo ma3 icecream ma3 serop chocolate aw caramel w biscuit oreo w hek aaj2a.',
+                            ' Merry cream with oreo biscuit and chocolate syrup w hek aaj2a.',
                             style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
@@ -118,7 +118,7 @@ class smoothies extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.start,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('  Gello', style: s1),
+                        Text('  Gilo', style: s1),
                         Text(' ', style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
@@ -141,30 +141,7 @@ class smoothies extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.start,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('  Kastar', style: s1),
-                        Text(' ', style: s2),
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.end,
-                          crossAxisAlignment: CrossAxisAlignment.end,
-                          children: [
-                            Text('100,000 L.L  ', style: s3),
-                          ],
-                        )
-                      ],
-                    ))),
-            Padding(
-                padding: const EdgeInsets.fromLTRB(10, 5, 10, 5),
-                child: Container(
-                    decoration: BoxDecoration(
-                        border: Border.all(
-                      color: c1,
-                      width: 2,
-                    )),
-                    child: Column(
-                      mainAxisAlignment: MainAxisAlignment.start,
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text('  Roz b 7alib', style: s1),
+                        Text('  Custard', style: s1),
                         Text(' ', style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,

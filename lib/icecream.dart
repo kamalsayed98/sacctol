@@ -95,9 +95,7 @@ class icecream extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text('  Scoop Achta', style: s1),
-                        Text(
-                            '  One or Two flavors served in one scoop(app. 40g)',
-                            style: s2),
+                        Text('  Full scoop of Achta dark(app. 40g)', style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
                           crossAxisAlignment: CrossAxisAlignment.end,
@@ -120,13 +118,12 @@ class icecream extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text('  1kg Ashta', style: s1),
-                        Text(' 12 Scoops of different Flavors, + 5 wafer cones',
-                            style: s2),
+                        Text(' 1kg of Achta dark + 5 large cones', style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
-                            Text('12\$  ', style: s3),
+                            Text('15\$  ', style: s3),
                           ],
                         )
                       ],
@@ -143,13 +140,13 @@ class icecream extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.start,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('  Add Cones/5pcs', style: s1),
+                        Text('  Add small Cones/5pcs', style: s1),
                         Text(' Sugar/wafer/Cones', style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
-                            Text('28,000 L.L  ', style: s3),
+                            Text('30,000 L.L  ', style: s3),
                           ],
                         )
                       ],
@@ -166,13 +163,13 @@ class icecream extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.start,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('  Add Cones/10pcs', style: s1),
+                        Text('  Add large Cones/10pcs', style: s1),
                         Text('  Sugar/wafer/Cones', style: s2),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
-                            Text('61,000 L.L  ', style: s3),
+                            Text('50,000 L.L  ', style: s3),
                           ],
                         )
                       ],
@@ -197,7 +194,7 @@ class icecream extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.end,
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
-                            Text('28,000 L.L  ', style: s3),
+                            Text('30,000 L.L  ', style: s3),
                           ],
                         )
                       ],
@@ -222,7 +219,7 @@ class icecream extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.end,
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
-                            Text('141,000 L.L  ', style: s3),
+                            Text('100,000 L.L  ', style: s3),
                           ],
                         )
                       ],
